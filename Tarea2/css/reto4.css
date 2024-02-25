@@ -1,0 +1,37 @@
+.titulo1{
+    font-weight: bolder;
+}
+
+.titulo2{
+    font-size: 20px;
+    color:gray;
+}
+
+.fondo1{
+    background-color: #4dd2c7;
+}
+
+
+.espacio{
+    padding: 120px 0;
+
+}
+
+
+
+
+
+.fondo2{
+    background-color: #4c6bbf;
+}
+
+
+i{
+    font-size: 95px;
+    color: #2d92e5;
+}
+
+footer{
+    padding-top: 35px;
+    padding-bottom: 0px;
+}
