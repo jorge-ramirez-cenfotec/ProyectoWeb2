@@ -1,0 +1,19 @@
+body{
+    background-image: url("../imagenes/banner2.jpg");
+    background-size: cover;
+}
+
+
+i{
+    font-size: 70px;
+    color: #fff;
+}
+
+.espacio{
+    padding-top: 550px;
+
+}
+
+.fondo2{
+    background-color: #4c6bbf;
+}
